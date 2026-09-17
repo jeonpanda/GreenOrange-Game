@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\ProjectD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46AE1C4C-7759-1C4A-40C9-9334BD202BD5}|Assembly-CSharp.csproj|c:\\users\\user\\projectd\\assets\\skripts\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AE1C4C-7759-1C4A-40C9-9334BD202BD5}|Assembly-CSharp.csproj|solutionrelative:assets\\skripts\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AE1C4C-7759-1C4A-40C9-9334BD202BD5}|Assembly-CSharp.csproj|C:\\Users\\user\\ProjectD\\assets\\skripts\\moveblockx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AE1C4C-7759-1C4A-40C9-9334BD202BD5}|Assembly-CSharp.csproj|solutionrelative:assets\\skripts\\moveblockx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AE1C4C-7759-1C4A-40C9-9334BD202BD5}|Assembly-CSharp.csproj|C:\\Users\\user\\ProjectD\\assets\\skripts\\player2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AE1C4C-7759-1C4A-40C9-9334BD202BD5}|Assembly-CSharp.csproj|solutionrelative:assets\\skripts\\player2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AE1C4C-7759-1C4A-40C9-9334BD202BD5}|Assembly-CSharp.csproj|C:\\Users\\user\\ProjectD\\assets\\skripts\\player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AE1C4C-7759-1C4A-40C9-9334BD202BD5}|Assembly-CSharp.csproj|solutionrelative:assets\\skripts\\player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AE1C4C-7759-1C4A-40C9-9334BD202BD5}|Assembly-CSharp.csproj|C:\\Users\\user\\ProjectD\\assets\\skripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AE1C4C-7759-1C4A-40C9-9334BD202BD5}|Assembly-CSharp.csproj|solutionrelative:assets\\skripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\ProjectD\\Assets\\Skripts\\Player1.cs",
+              "RelativeDocumentMoniker": "Assets\\Skripts\\Player1.cs",
+              "ToolTip": "C:\\Users\\user\\ProjectD\\Assets\\Skripts\\Player1.cs",
+              "RelativeToolTip": "Assets\\Skripts\\Player1.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwFoAAAC9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:20:24.645Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\ProjectD\\Assets\\Skripts\\Player2.cs",
+              "RelativeDocumentMoniker": "Assets\\Skripts\\Player2.cs",
+              "ToolTip": "C:\\Users\\user\\ProjectD\\Assets\\Skripts\\Player2.cs",
+              "RelativeToolTip": "Assets\\Skripts\\Player2.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:15:12.803Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\user\\ProjectD\\Assets\\Skripts\\Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\Skripts\\Camera.cs",
+              "ToolTip": "C:\\Users\\user\\ProjectD\\Assets\\Skripts\\Camera.cs",
+              "RelativeToolTip": "Assets\\Skripts\\Camera.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB0AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:21:33.499Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\user\\ProjectD\\Assets\\Skripts\\Button.cs",
+              "RelativeDocumentMoniker": "Assets\\Skripts\\Button.cs",
+              "ToolTip": "C:\\Users\\user\\ProjectD\\Assets\\Skripts\\Button.cs",
+              "RelativeToolTip": "Assets\\Skripts\\Button.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:35:17.709Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoveBlockX.cs",
+              "DocumentMoniker": "C:\\Users\\user\\ProjectD\\Assets\\Skripts\\MoveBlockX.cs",
+              "RelativeDocumentMoniker": "Assets\\Skripts\\MoveBlockX.cs",
+              "ToolTip": "C:\\Users\\user\\ProjectD\\Assets\\Skripts\\MoveBlockX.cs",
+              "RelativeToolTip": "Assets\\Skripts\\MoveBlockX.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:53:59.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
